@@ -1,9 +1,6 @@
-ul {
-  list-style: none;
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  background-color: blue;
+.img-fluid {
+  width: 100%;
+  height: auto;
 }
 
 /*# sourceMappingURL=style.css.map */
